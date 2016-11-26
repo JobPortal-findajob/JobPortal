@@ -1,0 +1,55 @@
+html{
+	position: absolute;
+	min-height: 100%;
+	min-width: 100%;
+}
+body {
+	font: 20px Montserrat, sans-serif;
+	line-height: 1.8;
+	color: #f5f6f7;
+	margin-bottom: 60px;
+}
+
+.head {
+	font: 40px Montserrat, sans-serif;
+	text-align: center;
+	color: #1E90FF;
+}
+
+.bg-1 {
+	background-color: #20B2AA; 
+	color: #ffffff;
+}
+.bg-2 {
+	background-color: #474e5d; 
+	color: #ffffff;
+}
+.bg-3 {
+	background-color: #ffffff; 
+	color: #555555;
+}
+
+.container-fluid {
+	padding-top: 70px;
+	padding-bottom: 70px;
+}
+.navbar-nav  li a:hover {
+	color: #1abc9c !important;
+}
+.a1:hover{
+	color: #FF69B4;
+}
+
+.error{
+	margin-left: 20%;
+	font-size: 80%;
+	color: red;
+}
+
+.footer{
+	position: absolute;
+    bottom: 0;
+    width: 100%;
+    background-color: #2f2f2f; 
+	color: #fff;
+}
